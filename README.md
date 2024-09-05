@@ -8,4 +8,4 @@
 4)Training the model
 5)Hyperparameter tuning
 
-## Hope its useful . Thank you!!
+## I Hope it would be useful . Thank you!!
